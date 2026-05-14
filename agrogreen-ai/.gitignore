@@ -1,0 +1,30 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Env files
+.env
+.env.local
+
+# Python (if backend uses Python)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE/editor junk
+.DS_Store
+*.swp
+.vscode/
+.idea/
